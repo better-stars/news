@@ -1,0 +1,2 @@
+# news
+Better Star News
